@@ -1,0 +1,9 @@
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\bin\Debug\FileCopierProgressBar.exe.config
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\bin\Debug\FileCopierProgressBar.exe
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\bin\Debug\FileCopierProgressBar.pdb
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\obj\Debug\FileCopierProgressBar.csprojAssemblyReference.cache
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\obj\Debug\FileCopierProgressBar.Form1.resources
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\obj\Debug\FileCopierProgressBar.Properties.Resources.resources
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\obj\Debug\FileCopierProgressBar.csproj.GenerateResource.cache
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\obj\Debug\FileCopierProgressBar.exe
+C:\Users\shala\source\repos\FileCopierProgressBar\FileCopierProgressBar\obj\Debug\FileCopierProgressBar.pdb
